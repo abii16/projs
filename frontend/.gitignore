@@ -1,0 +1,10 @@
+# Frontend Dependencies
+node_modules/
+
+# Secrets & Local Config
+.env
+.env.local
+!.env.example
+
+# Build output
+dist/

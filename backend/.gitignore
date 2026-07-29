@@ -1,0 +1,12 @@
+# Backend Dependencies
+node_modules/
+
+# Secrets
+.env
+!.env.example
+
+# Local Data
+data/
+
+# Logs
+*.log
