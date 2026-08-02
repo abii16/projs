@@ -1,8 +1,8 @@
-# projs
+# Authentication
 
-![Repo languages](https://img.shields.io/badge/languages-JavaScript%2C%20CSS%2C%20HTML-blue) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![Repo languages](https://img.shields.io/badge/languages-Reactjs%2C%20Tailwindcss%2C%20Nodejs-blue) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-A curated collection of small front-end projects and experiments built with JavaScript, CSS, and HTML. Each project is self-contained and intended to be easy to run, inspect, and extend.
+A curated collection of small front-end projects and experiments built with react js,node js and tailwind css. Each project is self-contained and intended to be easy to run, inspect, and extend.
 
 ## Table of contents
 - [About](#about)
